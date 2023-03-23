@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<map>
+    <densityMapHeightTypes>
+        <densityMapHeightType fillTypeName="wheat" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/wheat_diffuse.dds" normal="$data/fillPlanes/wheat_normal.dds" distance="$data/fillPlanes/distance/wheatDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="barley" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/barley_diffuse.dds" normal="$data/fillPlanes/barley_normal.dds" distance="$data/fillPlanes/distance/barleyDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="oat" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/oat_diffuse.dds" normal="$data/fillPlanes/oat_normal.dds" distance="$data/fillPlanes/distance/oatDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="canola" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/canola_diffuse.dds" normal="$data/fillPlanes/canola_normal.dds" distance="$data/fillPlanes/distance/canolaDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="maize" maxSurfaceAngle="30" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/maize_diffuse.dds" normal="$data/fillPlanes/maize_normal.dds" distance="$data/fillPlanes/distance/maizeDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="potato" maxSurfaceAngle="34" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/potatoes_diffuse.dds" normal="$data/fillPlanes/potatoes_normal.dds" distance="$data/fillPlanes/distance/potatoesDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="sugarBeet" maxSurfaceAngle="34" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/sugarBeets_diffuse.dds" normal="$data/fillPlanes/sugarBeets_normal.dds" distance="$data/fillPlanes/distance/sugarBeetsDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="soyBean" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/soybean_diffuse.dds" normal="$data/fillPlanes/soybean_normal.dds" distance="$data/fillPlanes/distance/soybeanDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="POPPY" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="maps/data/fillPlanes/poppy_diffuse.dds" normal="$data/fillPlanes/canola_normal.dds" distance="maps/data/fillPlanes/distance/poppyDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="HEMP" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="maps/data/fillPlanes/hemp_diffuse.dds" normal="maps/data/fillPlanes/hemp_normal.dds" distance="$data/fillPlanes/distance/chaffDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="sunflower" maxSurfaceAngle="26" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/sunflower_diffuse.dds" normal="$data/fillPlanes/sunflower_normal.dds" distance="$data/fillPlanes/distance/sunflowerDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="chaff" maxSurfaceAngle="40" fillToGroundScale="1.0" allowsSmoothing="true" >
+            <collision scale="0.7" baseOffset="0.10" minOffset="0.20" maxOffset="0.60" />
+            <textures diffuse="$data/fillPlanes/chaff_diffuse.dds" normal="$data/fillPlanes/chaff_normal.dds" distance="$data/fillPlanes/distance/chaffDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="seeds" maxSurfaceAngle="20" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.05" minOffset="0.0" maxOffset="0.05" />
+            <textures diffuse="$data/fillPlanes/genericSeed_diffuse.dds" normal="$data/fillPlanes/genericSeed_normal.dds" distance="$data/fillPlanes/distance/genericSeedDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="lime" maxSurfaceAngle="20" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.05" minOffset="0.0" maxOffset="0.05" />
+            <textures diffuse="$data/fillPlanes/lime_diffuse.dds" normal="$data/fillPlanes/lime_normal.dds" distance="$data/fillPlanes/distance/limeDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="fertilizer" maxSurfaceAngle="20" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.05" minOffset="0.0" maxOffset="0.05" />
+            <textures diffuse="$data/fillPlanes/fertilizer_diffuse.dds" normal="$data/fillPlanes/fertilizer_normal.dds" distance="$data/fillPlanes/distance/fertilizerDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="sugarCane" maxSurfaceAngle="34" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.0" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/sugarCane_diffuse.dds" normal="$data/fillPlanes/sugarCane_normal.dds" distance="$data/fillPlanes/distance/sugarCaneDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="straw" maxSurfaceAngle="35" fillToGroundScale="6.0" allowsSmoothing="false" >
+            <collision scale="0.35" baseOffset="0.10" minOffset="0.10" maxOffset="1.20" />
+            <textures diffuse="$data/fillPlanes/straw_diffuse.dds" normal="$data/fillPlanes/straw_normal.dds" distance="$data/fillPlanes/distance/strawDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="grass_windrow" maxSurfaceAngle="35" fillToGroundScale="6.0" allowsSmoothing="false" >
+            <collision scale="0.35" baseOffset="0.10" minOffset="0.10" maxOffset="1.20" />
+            <textures diffuse="$data/fillPlanes/grass_diffuse.dds" normal="$data/fillPlanes/grass_normal.dds" distance="$data/fillPlanes/distance/grassDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="dryGrass_windrow" maxSurfaceAngle="35" fillToGroundScale="7.0" allowsSmoothing="false" >
+            <collision scale="0.35" baseOffset="0.10" minOffset="0.10" maxOffset="1.20" />
+            <textures diffuse="$data/fillPlanes/hay_diffuse.dds" normal="$data/fillPlanes/hay_normal.dds" distance="$data/fillPlanes/distance/hayDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="silage" maxSurfaceAngle="40" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.00" baseOffset="0.0" minOffset="0.0" maxOffset="0.0" />
+            <textures diffuse="$data/fillPlanes/silage_diffuse.dds" normal="$data/fillPlanes/silage_normal.dds" distance="$data/fillPlanes/distance/silageDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="forage" maxSurfaceAngle="40" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.00" baseOffset="0.0" minOffset="0.0" maxOffset="0.0" />
+            <textures diffuse="$data/fillPlanes/forage_diffuse.dds" normal="$data/fillPlanes/forage_normal.dds" distance="$data/fillPlanes/distance/forageDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="pigFood" maxSurfaceAngle="40" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.00" baseOffset="0.0" minOffset="0.0" maxOffset="0.0" />
+            <textures diffuse="$data/fillPlanes/pigFood_diffuse.dds" normal="$data/fillPlanes/pigFood_normal.dds" distance="$data/fillPlanes/distance/pigFoodDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="manure" maxSurfaceAngle="30" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.00" baseOffset="0.08" minOffset="0.0" maxOffset="0.08" />
+            <textures diffuse="$data/fillPlanes/manure_diffuse.dds" normal="$data/fillPlanes/manure_normal.dds" distance="$data/fillPlanes/distance/manureDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="woodChips" maxSurfaceAngle="30" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.00" baseOffset="0.2" minOffset="0.1" maxOffset="0.3" />
+            <textures diffuse="$data/fillPlanes/woodChips_diffuse.dds" normal="$data/fillPlanes/woodChips_normal.dds" distance="$data/fillPlanes/distance/woodChipsDistance_diffuse.dds" />
+        </densityMapHeightType>
+        <densityMapHeightType fillTypeName="tarp" maxSurfaceAngle="40" fillToGroundScale="1.0" allowsSmoothing="false" >
+            <collision scale="1.00" baseOffset="0.0" minOffset="0.0" maxOffset="0.0" />
+            <textures diffuse="$data/fillPlanes/tarp_diffuse.dds" normal="$data/fillPlanes/tarp_normal.dds" distance="$data/fillPlanes/distance/tarpDistance_diffuse.dds" />
+        </densityMapHeightType>
+    </densityMapHeightTypes>
+</map>

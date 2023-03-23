@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<storeItems>
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmHouse.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmBarn.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmGarage.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmHut.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmShack.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmShed.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmStable.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmStorage.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmTrailer.xml" />
+    <storeItem xmlFilename="$data/placeables/mapUS/farmBuildings/farmOldBarn.xml" />
+    <storeItem xmlFilename="$data/placeables/mapDE/farmBuildings/farmHouse.xml" />
+    <storeItem xmlFilename="$data/placeables/mapDE/farmBuildings/farmHousePreplaced.xml" />
+    <storeItem xmlFilename="$data/placeables/mapDE/farmBuildings/farmBarn.xml" />
+    <storeItem xmlFilename="$data/placeables/mapDE/farmBuildings/farmGarage.xml" />
+    <storeItem xmlFilename="$data/placeables/mapDE/farmBuildings/farmStorageBarn.xml" />
+</storeItems>

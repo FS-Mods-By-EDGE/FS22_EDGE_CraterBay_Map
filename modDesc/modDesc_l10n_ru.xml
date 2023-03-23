@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+<author>Edge Gaming / Castiga</author>
+<translationby>Castiga</translationby>
+	<texts>
+		<text name="POPPY" 								text="Poppy Seeds"/>
+		<text name="POPPY_FLOWER" 						text="Poppy Flower"/>
+		<text name="desc_poppy" 						text="Poppy Seeds is a Fruit, mostly used in making Bread."/>
+		<text name="HEMP_PLANT" 						text="Hemp Plant"/>
+		<text name="HEMP" 								text="Hemp"/>
+		<text name="desc_hemp" 							text="Hemp can be used for making allmost anything."/>
+        <text name="LUMBERYARD"    						text="Lumberyard"/>
+        <text name="action_toggleFillmark" 				text="Fillmark on/off"/>
+        <text name="tm_distillery" 						text="Distillery"/>
+        <text name="tm_Trashyard" 						text="Trashyard"/>
+        <text name="tm_minimarket" 						text="Mini Market"/>
+        <text name="tm_EDGE" 							text="EDGE Industries"/>
+        <text name="tm_Beach" 							text="Beach Property"/>
+        <text name="tm_mill" 							text="The Mill"/>
+        <text name="tm_Limagrain" 						text="LimaGrain"/>
+        <text name="tm_Lemonways" 						text="Lemonways"/>
+        <text name="tm_Oceanbeach" 						text="Ocean Beach Kitchen"/>
+			<!--Missions-->
+		<text name="BOTTLE_DELIVERY" 					text="Bottle Delivery"/>
+		<text name="HARDWARE_DELIVERY" 					text="Hardware Delivery"/>
+		<text name="WATER_DELIVERY" 					text="Water Delivery"/>
+		<text name="FOOD_DELIVERY" 						text="Food Delivery"/>
+		<text name="SUGAR_MILL_DELIVERY" 				text="Sugar Mill Delivery"/>
+		<text name="MIX_DELIVERY" 						text="Moxed Goods Delivery"/>
+		<text name="CORPORATE_DELIVERY" 				text="Corporate Delivery"/>
+		<text name="SEEDFERTILIZER_DELIVERY" 			text="Seed & Fertilizer Delivery"/>
+		<text name="COMPUTER_DELIVERY" 					text="Computer Delivery"/>
+		<text name="BROKEN_COMPUTER_DELIVERY" 			text="Broken Computer Delivery"/>
+		<text name="BEER_DELIVERY" 						text="Beer Delivery"/>
+		<text name="BALE_DELIVERY" 						text="Bale Delivery"/>
+		<text name="MACHINERY_DELIVERY" 				text="Machinery Delivery"/>
+	</texts>
+<l10n>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<groundTypes>
+    <!-- Base -->
+    <groundType name="dirt"         fallbacks=""/>
+    <!-- Standard -->
+    <groundType name="asphalt"      fallbacks="cobblestones gravel dirt"/>
+    <groundType name="gravel"       fallbacks="dirt"/>
+    <groundType name="grass"        fallbacks="dirt"/>
+    <groundType name="sand"         fallbacks="dirt"/>
+    <groundType name="animalMud"    fallbacks="dirt"/>
+    <groundType name="concrete"     fallbacks="asphalt gravel dirt"/>
+    <groundType name="plates"       fallbacks="asphalt gravel dirt"/>
+    <groundType name="cobblestones" fallbacks="asphalt gravel dirt"/>
+    <groundType name="flagstones"   fallbacks="cobblestones asphalt gravel dirt"/>
+    <!-- Special -->
+    <groundType name="forestGround"     fallbacks="dirt"/>
+    <groundType name="rock"             fallbacks="asphalt gravel dirt"/>
+    <groundType type="dirt01"              fallbacks="dirt"    />
+    <groundType type="grassRough01"        fallbacks="dirt grass"/>
+    <groundType type="grass01"             fallbacks="grass"/>
+    <groundType type="grassRough02"        fallbacks="dirt grass"/>
+    <groundType type="dirt02"              fallbacks="dirt" />
+    <groundType type="sand01"              fallbacks="sand" />
+    <groundType type="gravel01"            fallbacks="gravel"/>
+    <groundType type="gravel02"            fallbacks="gravel"/>
+    <groundType type="asphalt01"           fallbacks="asphalt"/>
+    <groundType type="leaves01"            fallbacks="leaves"/>
+    <groundType type="leaves02"            fallbacks="leaves"/>
+    <groundType type="asphalt02"           fallbacks="asphalt"/>
+    <groundType type="concrete01"          fallbacks="concrete"/>
+    <groundType type="concrete02"          fallbacks="concrete"/>
+    <groundType type="grass02"             fallbacks="grass"/>
+    <groundType type="grass03"             fallbacks="grass"/>
+    <groundType type="grassRough03"        fallbacks="dirt grass"/>
+    <groundType type="grassRough04"        fallbacks="dirt grass" />
+    <groundType type="grass04"             fallbacks="grass dirt" />
+    <groundType type="shallowWater01"      fallbacks="shallowWater dirt"/>
+    <groundType type="shallowWater02"      fallbacks="shallowWater dirt"/>
+    <groundType type="field01"             fallbacks="field"/>
+    <groundType type="concrete03"          fallbacks="concrete"/>
+    <groundType type="concrete04"          fallbacks="concrete"/>
+    <groundType type="shallowWater03"      fallbacks="shallowWater dirt"/>
+    <groundType type="sand02"              fallbacks="sand" />
+    <groundType type="field02"             fallbacks="field" />
+    <groundType type="dirt03"              fallbacks="dirt" />
+    <groundType type="sand03"              fallbacks="sand"/>
+    <groundType type="concrete05"          fallbacks="concrete"/>
+    <groundType type="concrete06"          fallbacks="concrete"/>
+    <groundType type="leaves03"            fallbacks="leaves"/>
+    <groundType type="leaves04"            fallbacks="leaves" />
+    <groundType type="grass05"             fallbacks="grass"/>
+    <groundType type="rock01"              fallbacks="rock dirt" />
+    <groundType type="rock02"              fallbacks="rock" />
+    <groundType type="rock03"              fallbacks="rock" />
+    <groundType type="dirt04"              fallbacks="dirt" />
+    <groundType type="gravel03"            fallbacks="gravel" />
+    <groundType type="rock04"              fallbacks="rock" />
+    <groundType type="asphalt03"           fallbacks="asphalt"/>
+    <groundType type="dirt05"              fallbacks="dirt"/>
+    <groundType type="dirt06"              fallbacks="dirt"/>
+    <groundType type="gravel04"            fallbacks="gravel"/>
+    <groundType type="gravel05"            fallbacks="gravel"/>
+    <groundType type="gravel06"            fallbacks="gravel"/>
+    <groundType type="rock05"              fallbacks="rock" />
+    <groundType type="grassRough05"        fallbacks="dirt grass"/>
+    <groundType type="grassRough06"        fallbacks="dirt grass" />
+</groundTypes>
