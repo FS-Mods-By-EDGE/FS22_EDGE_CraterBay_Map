@@ -6,4 +6,4 @@
   #	<!-- Specific Folder -->
   # *data/*.shapes
 
-lfs track "*.dds *.shapes"
+lfs track "*.dds *.shapes *.i3d"
